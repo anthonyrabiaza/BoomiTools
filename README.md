@@ -37,3 +37,6 @@ You will get the formatted data
 
 ![Notepad_macro_out](./resources/Notepad_macro_out.png)
 
+And you can copy/paste it to Excel
+
+![Excel_data](./resources/Excel_data.png)
