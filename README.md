@@ -9,11 +9,7 @@ To view Database output, two macros are available and allow you to:
 
 ### Installation
 
-Copy shortcuts.xml contained in the Notepad++ directory in github 
-
-[]: Notepad++/shortcuts.xml?raw=true	"macros"
-
-to your %appdata%\Notepad++ folder and restart Notepad++
+Download [shortcuts.xml](./Notepad++/shortcuts.xml?raw=true) and copy the file your %appdata%\Notepad++ folder and restart Notepad++
 
 ### Steps
 
