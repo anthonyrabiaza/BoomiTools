@@ -19,25 +19,25 @@ to your %appdata%\Notepad++ folder and restart Notepad++
 
 Execute a process or use process reporting to locate a DB operation which return data formatted in Database Profile.
 
-![DB_Process](C:\MyDev\eclipse-oxygen\BoomiTools\resources\DB_Process.png)
+![DB_Process](./resources/DB_Process.png)
 
 Execute the process
 
-![DB_Process_Executed](C:\MyDev\eclipse-oxygen\BoomiTools\resources\DB_Process_Executed.png)
+![DB_Process_Executed](./resources/DB_Process_Executed.png)
 
 Download or copy the document
 
-![DB_Process_Data](C:\MyDev\eclipse-oxygen\BoomiTools\resources\DB_Process_Data.png)
+![DB_Process_Data](./resources/DB_Process_Data.png)
 
 Paste or open the document in Notepad++
 
-![Notepad_data](C:\MyDev\eclipse-oxygen\BoomiTools\resources\Notepad_data.png)
+![Notepad_data](./resources/Notepad_data.png)
 
 Select one the of the Dell Boomi Macros in Notepad++
 
-![Notepad_macro](C:\MyDev\eclipse-oxygen\BoomiTools\resources\Notepad_macro.png)
+![Notepad_macro](./resources/Notepad_macro.png)
 
 You will get the formatted data
 
-![Notepad_macro_out](C:\MyDev\eclipse-oxygen\BoomiTools\resources\Notepad_macro_out.png)
+![Notepad_macro_out](./resources/Notepad_macro_out.png)
 
